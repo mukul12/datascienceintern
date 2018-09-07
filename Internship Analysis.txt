@@ -1,0 +1,757 @@
+day1-1
+The first most interesting insight is, even the most learned statisticians who have a strong
+command over numeracy tend to misjudge the real trends in statistics, even of their own local zone.
+Hence the whole distinction between those who know numeracy and those who don't comes into picture. There is no correlation between a person having a stronghold over 
+numeracy to their ability to estimate and guess and in the end the guess of estimation is taken by many varied priority factors.
+The ability to estimate is based on varied factors and not on pure mathematics.
+
+
+Even the most learned mathematicians can in fact have their opinion biased based on their own personal experiences.
+As the speaker actually elucidates further statistics in sort of a turn around to its image actually shows the people 
+the reality and makes them realise the real picture. The guess or estimation that any person takes is based on their own biases,
+prejudices and their own view or understanding of their environment. Hence this study actually debunks the myth that statistics
+actually shows the uncertainty, rather it shows the clear picture helps in deeper understanding of the environment. 
+Statistics which was found boring by the name itself, was actually adulated and adorned by people when it showed them the actual reality, 
+and made people realise what went through them when they made an estimation.
+
+A manager can ofcourse then use this information regarding that people give their own experiences a higher weightage compared to pure maths
+when it comes to their understanding of any subject matter. Take for instance an Engineer passing out from Stanford University. There is a preconceived notion
+that all the Engineers that pass out from such a prestigious university are bound to be the best in class. The manager of such a University hence need not advertise
+but only use the Stanford Univsersity tag to validate or authenticate anything in relation to skills. For eg: A seminar conducted in Stanford University. This lone sentence 
+is bound to catch attention of many people.
+
+
+
+
+day 1-2
+ The first bit of information although interesting is quite conspicuous. The rise of tons of petabytes of data has warranted a need of specialised personnel 
+ capable of handling and skillfully or intuitively, by connecting the dots in the seemingly unstructured unkempt data, find a relation which has a USE or APPLICATION.
+ The main thing that drives a data scientist is their moto and ability to think out-of-the-box. Their dominant trait is an intense
+ curiosity—a desire to go beneath the surface of a problem, find the questions at its heart, and distill them into a very clear set of hypotheses that can be tested.  Just similar to the example of : 
+ A data scientist studying a fraud problem who realized that it was analogous to a type of DNA sequencing problem. There are different types of data analysts:
+ 1) Data Scientist, Like a traditional scientist, this scientist designs equipment, gathers data, conducts multiple experiments, and communicates their results.
+ 2) Quantitative analyst, They are great at analyzing data but may not have the skills required to structurize unstructured data.
+ 3) Data management expert,who might be great at generating and organizing data in structured form but not at turning unstructured data into structured data.
+ Each trend becomes the hot topic or the "sexy" job while others like a computer programmer or a software engineer ,fizzed out in the 90s, Data Scientists are here to stay with the
+ advent of internet and the collection of loads and tons of data(Big Data) everyday.
+ 
+ Each major company like Google, Yahoo, LinkedIn, Facebook, Twitter requires Data Scientists constantly to find out new trends, new happenings and to build a logic out of the tremendous influx of petabytes of data.
+ Take for example one of the biggest social media platforms Twitter. Twitter's AI effectively handles the "Region-specific" trending topics, while adding their own
+ new neologisms like that of the "hashtag #".
+ In order to nurture fast growth and motivation, it is often said that the peers are the ones who keep people motivated, this fact is but true in case of Data scientists. 
+ There is a potential downside to having people with sophisticated skills in a fast-evolving field spend their time among general management colleagues. 
+ They’ll have less interaction with similar specialists, which they need to keep their skills sharp and their tool kit state-of-the-art. 
+ Data scientists have to connect with communities of practice, either within large firms or externally. 
+ New conferences and informal associations are springing up to support collaboration and technology sharing, and companies should encourage scientists to become 
+ involved in them with the understanding that “more water in the harbor floats all boats.” Moreover only those who have some sort of statistical or computational background
+ tend to show more efficacy as compared to others. 
+ 
+ 
+ 
+ 
+ Since there is huge lack of Data Scientists, the supply demand ratio is currently quite less. The demand for byzantine data interpreters and analyzers increasing,
+simultaneously this influx of copious amounts of unstructured meaningless data, it is indeed true that the job prospects for a Data Scientist is bright. Hence the manager, could start
+hiring more data scientists to be in the forefront of the competitive markets, like google, and find out meanings from market workings. Although due to high demands and low supply, the
+salary of a Data Scientist will be ofcourse higher, the manager should not shy away from hiring and embracing such a impactful change. Data scientists bring more than what
+the salary they pay them for in the broader sense.  If companies sit out this trend’s early days for lack of talent, they risk falling behind as competitors and 
+channel partners gain nearly unassailable advantages. Think of big data as an epic wave gathering now, starting to crest. If you want to catch it, you need people who can surf.
+ 
+ 
+Day2-1
+One glaring point which is blatantly visible in the report is that given the advent of new technology
+and huge input of data from various sources, be it the constantly raving social media or the tons of petabytes of data that google extracts from a mere smartphone
+which you and I are using day in and day out, that the stakes have risen and the need of data-savvy analysts has risen. It is further helping in understanding the 
+thoughtprocess gone behind any analysts mind. The report goes on saying that even if a person is not data-savvy, he could if shown the right path, follow or
+develop the mentality with which to approach any data. This makes him what is called as a "Data Literate". Literate is a very interesting word used here. My interpretation
+of this word is that a literate is a person who can read through a given text and can analyse and most importantly understand the text. Applying it in the context of a data analyst,
+we can very easily interpret what the author is trying to say. The author wants us to "read-through" the data, understand the data, analyze the data and find relevance in data or
+conjure some relation based on the data.
+
+
+The second notable point is he teaches us how actual Data analysts think, ie he guides us into being a Data-Literate.
+He starts of doing so by questioning the reality question. The report gives an example of a conspicuous mistake which most of
+us so conveniently take up for granted- that of punctuality. Although it is true that the meetings generally do start late (that is a reality), the report forces us to 
+prove or find out the reasoning behind such delays. That is the author here is showing us that, to prove something, find data relevant to prove it and hence find a relation 
+between the data obtained to the reality. He basically tells us to follow a sequential step by step procedure. 
+1) Find something which intrigues your attention or irks you.
+2) Analyze the situation with solid proof( start collecting the data)
+3) Write down all the relevant definitions and your protocol for collecting the data.
+4) TRUST the data.
+5) After collecting the data try deriving correlation between the datapoints, influential points(e.g the Vice President in the case).
+6) Visualise the data giving it a physical form in the way of graphs.
+7) After analysing the situation, find out the impact of the situation.(the cost and the invaluable time wastage)
+8) Derive a beneficial conclusion based on the findings, and a solution(sometimes) which could rectify/improve/circumvent the problems.
+
+It is said that providing the solution to a problem, it is far more beneficial to show the path taken to achieve the solution. In this way the person learning would
+develop the logic and contextual mindset or that keen eye(which can look through the obscurities and focus on the sole goal) that is needed of a highly skilled data interpreter.
+A manager can hone his skills and make himself a Data-Literate. He could adopt the various strategies discussed in the analysis to develop a data-savvy mindset.
+This will increase his employability and also develop the acumen needed off a data analyst. Since this person would bring with him the versatile combined package of a manager
+as well as a Data-savvy Data Analyst.
+
+
+Day 2-2
+The first informative insight comes from the getting to know the meaning of the word data-driven. Another one of the buzz words being used nowadays, data-driven
+technologies or companies are those which prominently work on data and data is their sort of bread and butter. They thrive on any sort of data, evolve their 
+analysing schemes based on types of data and try to think out-of-the-box in order to derive meaninful purpose of the said data.
+As the word says Data-driven, it means that the driving force of the company is their data. Hence without data there is no company and vice-verca.
+1)The whole soul of the data driven is based on data. Hence the thing of utmost relevance is finding that said data. This led to the advent of a thing called Data mining. People
+in their search for relevant data went on a spree of mining. This coined word of Data Mining comes from the actualy work of Mining. People mine the rocks to find
+a relevant ore or relevant mineral, metal like gold or the precious gems like ruby, sapphire, diamond. In case of data mining, finding the relevant information or data
+from the petabytes of unstructured irrelevant data comes into picture.
+2) The essence of “data-driven” is making better decisions up and down the organization chart. The author specifically mentions that in order to be better data-driven
+ everyone should join the bandwagon, be it the smallest of employees to the top business associates. Pushing decision making down frees up senior time for the most 
+ important decisions. And, just as important, lower-level people spend more time and take greater care when a decision falls to them.
+ The author then specifically mentions the relevant traits of the data driven as follows:
+ 1. Make decisions at the lowest possible level
+ 2. Bring as much diverse data to any situation as they possibly can
+ 3. Use data to develop a deeper understanding of their worlds
+ 4. Develop an appreciation for variation
+ 5. Deal reasonably well with uncertainty
+ 6. Integration and ability to understand the data and its implication with intuition.
+ 7. Always on the drive to perform various experiments and research on the data.
+ 8. Making decision is just a tick off the check list.
+ 9. Work hard to learn new skills and bring new data and new data technologies (big data, predictive analytics, metadata management, etc.) into their organizations
+10. Learn from their mistake
+
+
+
+The second insight we get from the source is that in order to be data-driven one has to be responsive and adaptive. It might be the case that sometimes the data
+analysis or the quality or quantity of the data is not of the required level. There the data-driven place high demands on their data and data sources. 
+They know that their decisions are no better than the data on which they are based, so an investment in quality data and cultivate data sources they can trust, is warranted. 
+As a result, when a time-sensitive issue comes up they are prepared. High-quality data makes it easier to understand variation and reduces uncertainty. 
+Success is measured in execution, and high-quality data makes it easier for others to follow the decision-makers ’logic and align to the decision. Also there is huge 
+variation on day to day basis in terms of the outcome of the data. Hence the data-driven need to be adaptive and smart. They need to on daily basis understand and interpret
+the reason behind these variations in order to improve not only their critical thinking abilities but also their position in companies.
+
+
+A manager in India can hence learn how to collect data be data-driven. He could utilise and rate himself accordingly based on the number of traits
+he actually follows. If he lacks in some trait it is blatantly clear for him to work on which part of his managerial abilities. More over the manager is then made aware
+that since there are quick ups and downs, to not get disheartened by this continous variation. On the other hand, they could get acclimatized to the constant changing 
+and evolving environment giving them a added advantage. This will not only sharpen their critical thinking ability but also equip them to handle the changing pressures and environment
+that live data generates. The data-driven place high demands on their data and data sources. They know that their decisions are no better than the data on which they are based, 
+so they invest in quality data and cultivate data sources they can trust. As a result, when a time-sensitive issue comes up the managers are prepared. 
+High-quality data makes it easier to understand variation and reduces uncertainty. 
+Success is measured in execution, and high-quality data makes it easier for others to follow the decision-makers ’logic and align to the decision. Hence the managers in India will 
+now know to not go grabbing at any data but to go after relevant and important data.
+
+Day 3-1
+The speaker starts of with showing the 2 distinctive glasses that one could view the data through.
+1) See it as a dangerous source of data capable to learn and invade the domains it otherwise shouldnt.
+2) See it as copious amounts of non-related data with absolutely no signficance, which actually is quite true, given the rate and amount at which the internet is expanding.
+The speaker goes on saying that even though there is huge and humongous amounts of data, each data needs a context.
+Without a specific context a person cannot interpret the specific data and elicit or depict a worthwhile meaning out of it. 
+She goes on explaining this by giving example of a Study carried out for detecting what constitutes a person smoking.
+Showing this, the speaker hints us at the ways in which data can be collected and how to collect it. Twitter being one of the most popular
+social media platform is bound to contain loads of data. Hence a "smoking" tag is searched across the social media, to find the context regarding
+which the data should be utilised. This context is important since it gives the interpreter in this case the data scientist a meaningful insight into
+the specific situations or ethos in which the word is used.
+
+The contextual analysis is a critical part in deciding and weighing each parameter accordingly and not normalizing each weightage could lead to obnoxious disastrous effects.
+As evident from the fact of the teacher's son. Her son was diagnosed with autism and declared unable to read and interpret just based on their lack in communication(data or fact regarding this as a proof)
+But given their inability to communicate one cannot comment on their actual analysing abilities, problem solving capabilities. Hence whenever we get a data we should not assume and
+have biased weightages regarding what we feel is correct about the said data. The given data can be interpreteted in multifarious ways but to base our conclusion just on
+the subset of our studies is inappropriate. Hence we should be wary of what our results portray and how the outcome of our analysis and interpretations can affect the world.
+
+
+A manager in India should therefore categorise and weigh the priorities based on what he feels is right. Not only giving out his opinions a manager should
+consider and even interpret the result of opinions putforth. Data can be interpreted in many ways, this the manager should decide and learn. He should 
+develop those perspicacious mindset necessary to bifurcate the stale dirty data from the vivid, prolific one.
+Hence a manager should be able to not only gauge and understand the data, he should evaluate the risks vs reward scenario and the use-case importance of the data.
+
+Day 3-2
+
+There is a huge demand and need of highly qualified, data-savvy working data analysts. The author goes on saying that although the demand of full-time Data Analyst easily
+surpasses the supply, one doesn't need to know the nitty-gritties of Big data and a highly computative mindset in order to be an efficient Analyst. He mentions so by comparing it to
+the example of: "You don’t need to become a winemaker to become a wine connoisseur." Hence what he is trying to say is that, you don't need to be aware of what the data is, just that 
+you should be able to read through and interpret and analyse the data. A winemaker is indeed the one behind the production line, but in order to understand the origin and taste of a wine
+a person, should only have the palate of a gourmet. That is a person must be skilled in understanding, he should be as they call "Data-Literate".
+
+Also inorder to be a successful analyst, a manager should just not obtain the data, join the bandwagon and submit reports in accordance to what others are writing. It is said that, it is better
+to be unique than to be the "fit-in" person. The author then shows us a glaring example of hardwork followed by perserverance.
+If one has dedicated their invaluable time in diligently carrying out research day in and day out, one must also plan as to how to pitch in the idea and show its use-case.
+In this fast paced world, no-one notices your work unless and until it is popular introduces a innovative and novel use-case. If you are easing someones life through the data, you should showcase it,
+this will inturn gain you financers, team members and also help from other experts. Hence one should conform to a certain frame structure to get accustomed to a fixed procedure. This well help them 
+structurize the procedures to be performed, having modular arrangement and schedule of certain specific activities. This will help the manager, track, recapitulate and summarise the topic in a gist
+letting the consumers know whats the project is about.
+
+
+
+
+A manager in India mostly lacks the technical knowledge required to be a data-savvy data literate. As the first insight shows, one need be a techn-geek in order to be an effective analyst.
+This would motivate more number of managers to start up on the journey of a data analyst. They would be inspired to learn and the progress visible(in terms of employability)would eventually
+boost their ambitions. Also they should not just copy-paste works from other experts just to show progress. Copying anything leaves no room for learning. This makes them helpless when an actual
+scenario requiring their quick expertise arises. There inability to perform would clearly indicate they incapabiity. Hence this insight teaches the manager to not to follow the crowd just because.
+They could ofcourse borrow the logic or results of the analysis as a reference in order to have a better insight of their use case. A manager should also structurize their project in a procedural frame structure.
+Each project should have some basic frame format which needs is to be followed. This brings stability to work environment reducing the chaos that arises due to mismanagement. Lastly the managers after working on a project
+should dedicate sufficient time in development. This will not only help them have a clear pitching idea of the project, but ease the complexity and show the implications of the project for the understanding of the layman.
+This will increase the usability as well as the popularity of the project.
+
+
+
+Day 4-1
+
+The first insight we gain is that visual information is always more eye-capturing than plain speech or text data.
+This is because our brain is hard-wired to match and connect the dots of texts with the visuals that we have seen of the said word.
+Hence when we say apple, we dont imagine A P P L E in our brain, the brain sorts its own data, and searches the picture of an apple which
+it had associated and stored in its memory. Hence any form of visual depiction delineates the information in a better understandable, approachable,
+intuitive way. Since visualising anything is intuitive to us, celerity with which we can grasp a depiction is unparalleled. Hence its better 
+to show and depict the information than to just plainly read out the same. If someone says that the population in India is 2nd highest in the world having 
+approximately 1/7th of the population, and on the other hand someone just shows the world population graph, it is indeed true that the graph is more appealing.
+
+The second useful insight is that even if we do portray the data in terms of graphs, we should be wary and cautious.
+Since graphs and charts indeed do have higher and appealing impact on people, if people do have opposing notions or ideas,
+the same compelling nature of the graphs could turn into disdain or hatred for such people. 
+Since they would be forced to counter their own life beliefs which would question their fundamental thinking. Those with stronger opposing views 
+were more likely to be swayed when a disagreeable message was presented in the form of a table. 
+Hence the effectiveness of visualization changes with mood, gender, 
+personality type and other factors. Execution matters. That is, credibility suffers if the visual is difficult to make sense of.
+ 
+
+
+A manager in India should be careful and take note of the fact that although visualization gives the project a huge appeal, 
+he should have the tact and knowledge as to where, when and what to showcase via the pictures. Since it depends not only the pictures themselves
+but the picture interpreters too.
+
+
+Day 4-2
+
+Data visualisation is as a whole a medium of communicating the data. Unless the data be actually visualized, in its raw form albeit it be pathbreaking, is of no use.
+Hence to carry out the visualisation part one must be wary and maintain some standards and norms.
+Beautiful exercises in special effects that show off statistical and technical skills, but do not clearly serve an informing purpose should be pruned.
+Data visualization is about communicating an idea that will drive action.
+Hence while visualising one must follow the 3 step rule/guide:
+1) Confirmation: They should confirm that the data indeed is the one that needs to be visualised. Significant delicate data which could jeopardize the security should not be 
+shown unless its imperative. This approach helps us to observe whether the underlying system has deviated from the model we had and assess the risk of the actions we are about to undertake based upon those assumptions.
+2) Education: How the given data is going to educate people. How is it necessary and how valid is it? How intuitive it is? Such questions need to be answered.
+3) Exploration: Data should be explored. Unless delved into the pith of any data its impossible to understand the essence of the information that can be extracted out of it.
+Hence exploration is a mandatory and important task.
+
+Second important insight that we take away from this article is that one should analyse the risk of portraying the said data. 
+Is the data controversial? Is it inciendiary? Does the data show a distinterested unbiased view of the system or has some biases.
+The quality of the data should ofcourse be determined. If the data is not authentic, the observations and interpretations from that data 
+are invalid. Hence the quality and integrity of the data should be judged and determined. The risk of showing results off a dubious data are far 
+worse than having bad results from a legitimate data. 
+The third point being that the data must be checked for its labels. Any unlabeled data can give way to thousands of misinterpretations. Hence the metadata of context along with the data should be obtained.
+ This context is the source of insight. To leave out any contextual information or metadata (or more appropriately, “metacontent”) is to risk hampering our understanding.
+ 
+ 
+ A manager in India hence should before portraying the data calculate the risk vs the reward ratio of the dataset. He should first confirm that the given data is of topnotch quality and authentic.
+ He should confirm and explore the data keeping the main moto of learning and gaining relevant insights from the data.
+ It will help him analyse the risks that one could face if indeed the data is dubious. He should also understand that some data should be kept confidential, since all data need not be displayed on public forum.
+ Hence a manager in india will be well equipped with instruments to tackle and analyse the importance of choosing what to visualise and what to portray through those visuals.
+ 
+
+ 
+Day 5-1
+The first and most important insight that we gain from the talk is that Data is absolutely useless unless it is associated with metadata.
+That is every data should with it have some humanised touch or labels or some form of context of that data. If every data is in binary form it could have multiple meanings and hence this should be checked.
+For example if the data is of life/death or if the data is of attendance of students i.e 0 or 1.
+Hence each data should be more humanised for faster computation, interpretation and understanding of the data.
+
+Second important thing to take away from the talk is that if the data is more humanized people relate to it more.
+People feel homely when something they do has an impact on everyone. Lets take the example of simple GPS data collected by google on daily basis.
+If people were shown that around 8pm IST the number businessmen travelling from churchgate to Borivali is 1000, one would be proud to say that they 
+contribute to that 1000 figure. They would feel a sense of elation, since they are being part of a system contributing some information to the world.
+
+A manager can hence try to add the human factor in the data while pitching the idea for the data. 
+This will enhance his presentation in addition to captivating the attention of their evaluators. 
+Involving the evaluators themselves and relating the data with them would be an added bonus since 
+they would get involved into the data and would hence unconsciously develop a liking for the data.
+
+
+
+Day 5-2
+Decisions don't start with data, in this we clearly can understand that showing or displaying of information is not always the right way to go about convincing people.
+To influence human decision making, you have to get to the place where decisions are really made — in the unconscious mind, where emotions rule, and data is mostly absent.
+It is seen from research that unconscious minds actually make better decisions when left alone to deal with complex issues.
+
+ People make decisions from certain parts of their unconscious and hence this needs stories to persuade the decision to be taken. 
+ Effective persuasion starts not with numbers, but with stories that have emotional power because that’s the best way to tap into unconscious decision making. We decide to invest 
+ in a new company or business line not because the financial model shows it will succeed but because we’re drawn to the story told by the people pitching it. Hence the outer 
+ sugar coating is much more important than the inner relevant data since if you fail to connect to the audience's unconscious mind, you have higher probability of failing
+ than succeeding. Hence one should try to pitch and connect the story with the people for a better chance at approval.
+ 
+ A manager in India can hence try to communicate and develop the mindset that pure data is never convincing. He should develop the ability to sugar coat the data
+ with convincing story in order to catch the interest of the listeners and cajole them to approving your pitched idea.
+
+ 
+ 
+ Day 6-1
+ 
+ Good design is the best way to navigate information glut as it changes the way we see the world.
+ Data variety is important since it provides context to data analysis. An interesting thing to see would be to map the frequency of media reports on the spike issues against public opinion (unstructured data ) 
+ juxtaposed against actual statistical reporting (structured data) to see how much media influences our perceptions versus reality. 
+ 
+ The speaker goes on to say how data is not the oil, but data is the soil. He mirrors the example of data to that of a tree.
+ A tree is the basic source of oxygen and hence called as source of life. Hence here data which needs to be visualised is the source of relevant information.
+ One can interpret and analyse data more efficiently and with keen insight only if he can easily visualise the data.
+ Visualising the data gives it the natural visual impulse which impacts us as humans much more than plain textual information
+ 
+ A manager in India can hence try and visualise the data in a creative way to captivate the attention during presentations.
+ 
+ Day 6-2
+ 
+ The first insight shows us that the writer hashes out why business's new lust for all things data and its confidence in correlation should not lead to a total abandonment of the search 
+ for causation.
+ 
+ Secondly, correlation is not the only thing we should consider while going forward in performing some action.
+ Asking if Correlation is enough is a wrong question.
+ When working with Big Data, sometimes correlation is enough. But other times understanding the cause is vital. The key is to know when correlation is enough—and what to do when it is not. 
+ Hence we should consider the following factors while deciding what steps to take:
+ 1)Confidence that the correlation will reliably recur in the future. The higher that confidence level, the more reasonable it is to take action in response.
+ 2)The tradeoff between the risk and reward of acting. If the risk of acting and being wrong is extremely high, for example, acting on even a strong correlation may be a mistake.
+
+ Hence a manager in India will be equipped to handle the weight ratio of risk vs reward.
+ He will be able to handle and carefully bifurcate what action needs to be implemented based on the correlation. He will be able to 
+ determine the key factors stated like if the correlation will recur or not and if the risk is worth taking or not. Hence 
+ such an article is beneficial for the sake of success in management roles
+ 
+ Day 7-1
+ The video starts of with the speaker sharing her own story about how data if not generalised can lead to mistaken and improper results.
+ Considering a smaller subset(sample) of the data and equating it to much larger dataset and basing that the prediction is indeed true is being hasty
+ and careless. Ofcourse small portions of data are indeed faster to study and quicker to be evaluated and sapped off energy of, but a minor 
+ discrepancy in small data contributes a much larger, powerful impact which in case of a larger dataset would be considered as the outliers and ignored.
+ Hence first insight that we can have is that we should not jump the gun and predict outputs without having gone through a thorough research on huge datasets.
+ 
+ The second insight we can take out of the video is the ability to attach context to any data. The speaker goes on to explain a experiment conducted by her and her pen-pal.
+ They used to visualise, draw and create their day-to-day activities nearly every week, showcasing their personality in a way, in which even if the other person might not know who you are,
+ they get the context(i.e the behavioural pattern, the personality traits) of the specific individual and can hence have a better visualisations about the possible personality,
+ the possible impact and the possible reactions of those impacts that person may have.
+ Hence viewing the data through contextual sense elaborates the nitty-gritties and helps humanising the plain, bland data.
+ 
+ A manager in India can therefore look at engaging in activities doing thorough research before showing the activities to evaluators.
+ Also the manager should make it sure that the evaluators can relate the data graphs that he is showing them.
+  Relating in the sense that they should grasp the meaning of the data in a sub-conscious i.e implicit manner. You need not show them the data, even then 
+  they would be able to predict, understand and interpret the data since the relation or the bond has been entrenched and ingrained in their mind which 
+  will give them a better thorough, relatable, relevant understanding of the data.
+  
+  Day 7-2
+  
+  Correlation doesn’t imply causation, it does provide give me a great starting point from which we can dig deeper into the data, consider other evidence, and so forth.
+  That is it means that even if you correlate two points in a data stating that one influences the other, the main or the core factor in determining the other variable may be entirely different.
+  Hence it is essential not to draw direct conclusions from correlations but to dig deeper and find out the necesseties that need to be performed.
+  
+  Having the relevant Data is a must and hence Dealing with bad data is increasingly important when the distinctions are fine or stakes are high, but when there are relatively few suspect points you can often complete an analysis or two with little worry.
+  The ability to think analytically is important for any manager today. 
+  The first steps involve collecting data, 
+  making some simple plots, drawing basic conclusions, and planning next steps. 
+  But to look past the mundane conspicuous points in data is not that easy. While we can use data to understand correlation, the more fundamental understanding of cause and effect requires more. 
+  And confusing the two can lead to disastrous results.
+  
+  You should not be afraid to ask hard questions of both the data and others. Hence a manager in India should first and foremost
+  learn to distinguish between correlation and root or the causation. In the given example, the writer shows that indeed travelling 
+  anywhere has increased his weight, but should that lead to the conclusion that indeed travelling is a responsible factor for increase in a person's weight.
+  No! This ability to distinguish between what constitutes as a root factor and what is a mere correlation will be beneficial for a manager in deciding what to do, how to do and predict 
+  the appropriate usage of the variables with appropriate impact of each on the given Use-case.
+ 
+ 
+ Day 8-1
+ The first key insight that one can get from the given regression analysis is that regression is the methodology used to predict certain things and 
+ enlightens us to really check if the given factor indeed changes the output i.e is it a impactful factor.
+ Regression analysis is a way of mathematically sorting out which of those variables does indeed have an impact. It answers the questions: Which factors matter most? Which can we ignore? How do those factors interact with each other? And, perhaps most importantly, how certain are we about all of these factors?
+ In regression you first collect the data which calls to your intuition and prediction of which your company demands.
+ After collecting such a data, you plot it against the impactful factor i.e the independent factor. In the given example the rainfall was the independent factor. Its impact against the companies sell was plotted giving
+ the correlation that indeed the factor considered has a powerful impact in calculating the dependent variable ( in this case the sales).
+ Step By Step procedure for Regression Analysis:
+ 1) Collect data
+ 2) Find the relevant factors.
+ 3) Plot the relationship between the relevant factors.
+ 4) Calculate the error term and check if its of significant value
+ 5) Using the error term evaluate the certainty of the predicted output using regression.
+ 
+ The second insight that we can get from the writeup is that correlation is not a causation. 
+ It’s easy to say that there is a correlation between rain and monthly sales. The regression shows that they are indeed related. 
+ But it’s an entirely different ball game when you say that rain caused the sales.Sometimes factors are correlated that are so obviously not connected by cause and effect but more often in business, it’s not so obvious. When you see a correlation from a regression analysis, you can’t make assumptions.
+ You have to go out and actually fact check that indeed the cause of increase in the sales is market and its not a mere correlation. Hence one should observe consumers buying your product in the rain, talk to them, and find out, what is actually causing them to make the purchase.
+ 
+ A manager in india can hence learn how to effectively carry out regression analysis. 
+ He would be sufficiently equipped with the insights that indeed not all the factors are impactful and certain factors affect more and hence others should be ignored.
+ Also if the error factor is too high the manager can hence manipulate the independent variables checking the degree to which they impact the prediction and the error rate.
+ Higher error rate means higher possibility of uncertainty. Also a manger in India should not be haywire and should know what he/she wants from the regression analysis.
+ He should be having an apt answer for the following points: 
+ What you will do with the data. What actions will you take? What decisions will you make?
+ Managers who are new to understanding regression analysis make the mistake of ignoring the error term. This is dangerous because they’re making the relationship between something more certain than it is.
+  The point of the analysis is to quantify the certainty that something will happen. And lastly if anything opposite to your intuition is being predicted be assured that the analysis or the model has failed since 
+  the error term is indeed a large number affecting the outcome.
+  
+  
+  Day 9-1
+  
+  The first incredible insight that one can get is that the data is available for everyone to see. We just need the visualisation tools and the intutive capabilities of assuming certain characteristics.
+  The author goes on to show that indeed some of our misconceptions can be cleared by the way we see data. He went on to show the real UN statistics regarding the current notion of his students that the world still is the same.
+  He showed how the world indeed has progressed from a larger family with each person having lower life expectancy to a smaller family with higher life expectancy.
+  Indeed these visuals gives our progress that wow-factor that Wow! we have successfully have started being more productive family planners and our research work in medicine and health indeed has been beneficial.
+  Hence one can grasp the changes that have been done using data visualisation and actual take into account which part of the world, how largely, or how swiftly, changed which aspect in order to attain the desired state.
+  
+  One can understand the different impacts of social and economical changes just by glancing through mere graphs.
+  The graphs and charts he used provided us with a novel vantage point from which we could use objectively recorded data and observations of the world to create our own hypotheses for solutions to a vast spectrum of problems.  He wasnt of the opinion that health and wealth necessarily have a positive correlation, but rather the fact that 
+  he could create such theories based on raw data put together an a more aesthetic format.  
+  The call was for a change in the collection, distribution, and ease of access of anthropological information for people around the world, so that they may find solutions to problems both domestically and globally.
+  
+  A manager in India can hence get inspired by the video and start working on collecting real time data which is available free of cost. This data can be interpreteted in countless number of ways and hence each could engender a new theory which would force the people 
+  to look at world from a different glass. These novel approaches would indeed garner attention and hence could be of potential success if the theories do indeed come up to be fortuitous.
+  Hence this analysis is an eye-opener on many levels for a manager in India which will force them to look at the following factors carefully.
+  - The need to continually return to the data. 
+  - The power of higher level thinking when it comes to averages. 
+  - The misconceptions about global change (economics, population, etc.). 
+  - The value of plotting graphically.
+  
+  Day 9-2
+  
+  In order to find usefulness from a tremendous amounts of data one needs to effectively find the relevant factors inside the data.
+  The vast influx of data has warranted the need of bifurcation of relevant information from raw data. To analyse, interpret and visualise copious amounts of data is the need of the hour.
+  This has given way to development of a Analystic mindset i.e "Data" as a whole is really irrelevant unless one knows how to distinguish it from "Information"
+  Hence challenge as data scientists is to translate this haystack of information into guidance so entrepreneurs can make smart decisions.
+  Hence the need of the hour is to find releveance in data, i.e have the keen eye to distinguish from the irrelevant data.
+  
+  In order to better understand the data the need of the hour is to humanize the data. 
+  We “humanize” the data by turning raw numbers into a story about our performance.
+  organizations can lose sight of the difference between what’s statistically significant and what’s important for decision-making.
+  Using Big Data successfully requires human translation and context whether it’s for your staff or the people your organization is trying to reach. Without a human frame, like photos or words that make emotion salient, data will only confuse, and certainly won’t lead to smart organizational behavior.
+  Data gives us the "what" as is correctly stated by the author. Yes data gives us the numbers the statistics the what-nots of day-to-day activities,
+  but to understand, interpret and assimilate the data for public utilisation or for understanding of the decision-makers 
+  is indeed what is needed. The "why" that the data portrays tacitly needs to be given the humanised intuitive backing. Unless done so the loads of data
+  would be of practically no use.
+  
+ A manager in India can hence adopt the 3 key points stated by the author:
+ 1) The Manager has to be goal-oriented. If he indeed has the huge database all he needs to do is slash through the irrelevant parts since they are redundant and of no use.
+ After doing that he should look only for the data that affects organization’s key metrics.
+ He has to ignore larger volumes of data that didn’t answer the desired questions and hone in on what really mattered.
+  2) Present data so that everyone can grasp the insights. This indeed is a no-brainer. The main purpose of data is so that it can be intended to tweak the intuitions of laypeople.
+  Since the job of a data analyst indeed is to simplify the huge data, draw out the interpretations and show it in terms of intuitive visualisations for other data-illiterate people. These helps 
+  in quick understanding of the data and the various theories it brings.
+  The most important job of all is qualitative understanding: asking questions, creating directives from our data, and telling its story and returning to the data with new questions. 
+
+  
+  
+  
+  
+  
+  
+  Day 10-1
+  
+  The first key insight that we get from the data is that based on past references to the data predicitive analysis can be performed to predict the future moves/ implications of psat actions.
+  Each organization be it flipkart or be it Netflix all use the recommendation algorithms which take in to account the user's recent clicks or the user's recent viewed or the pattern/habit
+  found in the user's past. This is called as predictive analysis and is the recent innovation which has created and eased the consumer life recently.
+  
+  In order to conduct effective predictive analysis, one should look at following 3 factors:
+  
+  1) The Data: Is the data authentic and good? That is, is the data from the source actually worth collecting.
+  To make predictions about what customers will buy in the future, for example, you need to have good data on who they are buying, what they have bought in the past, the attributes of those products (attribute-based predictions are often more accurate than the “people who buy this also buy this” type of model), and perhaps some demographic attributes of the customer ( socioeconomic status).
+  2) The Statistics: For this you need a regression model which goes something like this: 
+  Whenever a use registers and starts purchasing, the item he is purchasing, the age of the person, the gender, the family role(like is the user a mother/parent), all such factors are called as influencers.
+  These influencers are then categorised and the ones with highest influencing factors are chosen. Since the ones with lower influence unnecessarily complicate the data.
+  Hence using this information regarding the user the regression model then predicts relative probability output values, and if these values exceed a certain threshold, one has accurately made a prediction using regression and the model can therefore "recommend" using mathematics and statistics!
+  3) The Assumptions: The last and most important factor in predicitive analysis is what to assume as irrelevant, or what are the assumptions based on which the model has been constructed. This is vital since the assumptions made years ago could wrongly predict the recommendations of today. Since data changes, trend changes, and hence people change.
+  The assumptions should be based on the current trends and if the model fails, the immediate inspection should be done on the assumptions.
+  
+  
+  A manager in india can hence firstly get to know what infact is a regression model and what is predictive analysis.
+  In this although he may not be a data expert, if the model fails to perform he indeed can handle what part of the model has failed and hence
+  this will help him manage and handle the situation appropriately.
+  He should be able to understand the model and effectively ask the analysts pertinent questions incase of a failure, questions could be like:
+  The source of data you used in your analysis?<- this answers the question of authenticity of data.
+  Are you sure the sample data are representative of the population? <- this answers if the sample is indeed an exception or not
+  Are there any outliers in your data distribution? How did they affect the results? <- the effect of outliers on the prediction.
+  What assumptions are behind your analysis?
+  Are there any conditions that would make your assumptions invalid?
+  Hence all these questions are sort of step-by-step debugging of the process in case of a failure and hence equips the manager with analytical and 
+  insightful skills which he could make use of in case of a failure of a model.
+
+  
+  
+  Day 10-2
+  
+  The first insight that we get from the given writeup is that data scientists, how so ever learned or knowledgable lack the ability to be scalable.
+  Despite massive investments in technology to store, analyze, report, and visualize data, employees are still spending untold hours interpreting analyses and manually reporting the results.
+  Hence the need of the hour is scalable Data Analysts who can with no effort compute, analyse, visualise and explain the data in simple conversational english.
+  
+  We have more data and more ways to access that data than we’ve ever had; yet we know we’re only scratching the surface with these tools.
+  Automated solutions that interpret data, unlock hidden insights, and then provide answers to ongoing business problems are the goto for future endeavours.
+  Any organization where employees are spending valuable time on manual, repetitive tasks is a prime case for intelligent automated solutions.
+  Machines with their ability to calculate, compute in matter of miliseconds make them alot more efficient and a GOTO means of solving repetitive 
+  procedures in future. These will not only save time but also help in achieving the required benefits but these Artificial Intelligence powered models 
+  would be capable to handle changing data, changing needs, changing use-cases on the blink of an eye. Unlike their human counterparts, these machines just need to
+  tweak the computing parameters to adjust the changing environment, whereas humans need to recalibrate, recalculate and hence waste alot of precious time.
+  
+  The key to all of this is the intersection of AI and advanced natural language generation. We’re at the beginning of the next phase of big data, a phase that will have very little to do with data capture and storage and everything to do with making data more useful, more understandable and more impactful.
+  Hence a manager in india would do good to the company by saving precious time. He can make use of AI in the sense that the advising personnel would be replaced by an application which would be able to respond immediately, with an explanation and sound advice the user can understand and act on, in a back-and-forth, conversational manner.
+  The adoption of AI within business intelligence platforms and customer-facing applications will accelerate. When a business user receives a dashboard, he will also receive an accompanying narrative to explain the insight within the visualization, easing consumption and quickening the pace of decision-making.
+  Hence not only the consumers but also the managers can utilise these AI based applications in easing out their day-to-day tasks advising the managers themselves to perform certain actions in certain situations much like Jarvis in Iron Man(if you are aware of her). In the movie Iron Man, his AI is smart enough explaining 
+  certain topics to the human Engineer himself telling him what should be the ideal scenario, or decision that should be taken and she even predicts the impacts of certain decisions Tony Stark makes.
+  Hence AI is the future and every manager would do good by incorporating AI methodologies in his working environment.
+  
+  
+  
+  
+  Day 11
+  The author has given us two keypoints to look at:
+  1) Instead of having some sort of high-fi scientific or computing knowledge one should have what the author calls as "thinking skills".
+  What the author means by this is that one need not have the mastery over computer science to be a good data analyst, one merely needs to have
+  working knowledge of the data. This means being able to separate good data from bad, and knowing where precisely analytics can add value.
+  The manager should be able to distinguish the irrelevant data from the relevant ones since he is responsible for data analysts working under him. If he himself is data-illiterate then 
+  he could easily be hoodwinked by the results showing an anomaly. He would believe the anomaly to be true and hence this would give boost to the 
+  bad analysis done by the analysts. Hence this should be stopped and the working intuition or the knowledge of manager should be up to date.
+  
+  2)A working knowledge of data science can help leaders turn analytics into genuine insight.
+  Even before collecting the data, the manager should be descriptive enough to tell the analysts what sort of data is needed or what the project is aiming to achieve.
+  If the manager himself is unsure the whole purpose of collecting any sort of data and then deriving some meaning out of it would be time consuming, and often misleading since 
+  the outliers' influence might be alot more and to account it into the system or not would not be known to the manager. Hence to avoid poor data analysis one should be objective and goal oriented. They have to think about the generation of data as a strategic imperative
+
+  A manager in India hence has to not only know what the data analysts do, but also have certain level of understanding of the subject matter to have a overview of the analysis being conducted is actually good or bad.
+  Following are the steps that a manager must do to equip himself with proper knowledge:
+  1)Start with the Problem: He must know the reason or the objective based on which the collection of data is being done.
+  2)Understand the Data-Generation Process: You cannot judge the quality of the analytics if you don’t have a very clear idea of where the data came from.
+  Understanding the data-generation process can also uncover the problem of reverse causality.
+  3) Use Domain Knowledge: In addition to making sure that data are generated with analytics in mind, managers should use their knowledge of the business to account for strange results.
+  Data scientists do not have all the domain expertise managers have, and analytics is no substitute for understanding the business.
+ 4) Know It—Do Not Just Think It: As big data and analytics bring about this revolution, managers with a working knowledge of data science will have an edge. Beyond being the gatekeepers of their own analytics, leaders should ensure that this knowledge is shared across their organization.
+ 
+ Day 12-1
+  There are 3 ways to spot a bad statistics and the speaker goes in depth to show us the real reason behind those statistics.
+  Statistics indeed are crucial and that these government numbers indeed represent the larger population but many still believe that the statistics are built by elitist government employees problably rigging the system and not making any sense
+  while not accurately portraying the realistic data that the people can relate to.
+  In order to see the key insights inside a dataset one should be able to define, find and spot the uncertainty.
+  
+  Uncertainty arises from varied factors be it the diverse and complex democratic structure or be it the intricate and highly whimsical human behaviour. People claim to do one thing and 
+  on the other hand actually perform something else. Humans are complex creatures behaviour of whose is impossible to predict let alone be certain that indeed the data collected from that same
+  human is indeed accurate and certain. People might change their opinion or they might even lie, during data collection. Although they are lieing such small datapoints collectively misrepresent 
+  what the actuality is. Take the example of US presidential elections. The loss of president Trump was given as a certainty in many exit polls, but fact of the matter is Data failed.
+  All the Statisticians, mathematicians, Data Scientists failed to corroborate the facts that indeed the human generated data can be uncertain and hence multifarious factors need to be accounted for 
+  in order to be certain of the predictions.
+  The second insight is how can you see yourself in the data. Datasets often are misleading but if one can relate to that dataset, it has a higher weightage compared to others.
+  If one relates to the database that is lets say if one's parents wants them to get degree educated, the data of unemployment 
+  clearly indicates that the unemployment rate for the educated is considerably lower and hence one can relate to the data since their parents' constant carping has imprinted or acclimatised them 
+  to the proportionality that good job = good education.
+  The third insight is that one should be able to distinguish and identify exactly how the data was collected.
+  If the context in which data was collected hasn't been revealed one should not assume the results. As shown by the speaker the Muslim population poll indeed can be skewed since
+  the poll actually didn't authenticate that indeed it were of the real american Muslims.
+  
+	A Manager can hence identify all the small insights of the data and hence check if the data that has been collected is indeed authentic, truthful and his findings 
+	in general are relatable i.e people can understand and visualise them without needing precise and accurate digits, and last but not least the data should be certain. Uncertainty
+	brings in ambiguity and ambiguity drives away any sort of trust. Hence a manager should before evaluating the data, ask these three questions in order to distinguish the good from the bad.
+	
+	
+Day 13-1
+
+The first glaring and disturbing insight that we get from the pitch is that the way that data is collected must be transparent.
+With increasing number of people and corporates engaging in data-driven activities, increasing the pressure as well as the dependence on data, its quality particularly.
+The quality of data is important since any relevant analysis or interpretation to be concrete it should be based on reality. Reality comes with authentic data. If the data itself is not of great quality,
+analysing the data is equivalent to wastage of money as well as time. Data if not of appropriate quality can lead to skewed results and interpretations. These can mislead people into thinking of a misjudgement as the truth.
+Hence proper method should be utilised in terms of acquiring the data. The data acquired should be of top-notch quality. Hence proper care should be taken while handling, passing, and collecting the data. Hence to eliminate this uncertainty in data collection itself
+can be done using the means of digital data. Digital data is in collected by digital forms which totally bypass the currently used paper based data collection. This not only saves the entire year long procedure into matter of few clicks and voila you have the entire data 
+of the entire nation in a excel sheet readily available for your analysis.
+
+The second insight that we can gain from the talk is that one person or the consultant should be eliminated from the equation of presenting the data. 
+The main drawback of any big-data related technology is its inability to scale. Due to the enormous influx of bulks of data, the main job is to constantly adapt and have a responsive element in the modern day applications.
+These applications would not only ease the whole situation of collecting the data, recording the data, managing the data, and carrying useful analysis of the data but will also be useful and helpful in the sense that we can be as carefree 
+with the job since it will be handled mostly by the application while being responsive to the constantly changing data types and its requirements.
+
+
+A manager in India can hence learn to utilise and scale his applications to counteract or remove the pivotal element without which the application would cease to work.
+Reducing all the manual work and turning or heading into a digital way would be beneficial not only for the manager since his projects would start becoming more responsive and more scalable
+but the company would overall be benefitted with a labourless, automatic working of their constantly changing datasets.
+
+Day 14-1
+Important insight that we get from the report is that there is a huge dearth of competent, highly skilled and efficient Data Scientists. Given influx of huge amounts of data, people were not prepared to handle this much of data. 
+Hence what happened was increasing demand of skilled data scientists. Also a skilled data scientist is what the countries lacked. Given the increasing demand of Data scientists, plebians were the first to get attracted to this demand and hence even though 
+the supply of Data Scientist as a professional isn't dwindling the reality is that such callow, novice and unexperienced data scientists take alot more than what they give.
+
+The second important insight that we get from the report is that there is a solution to this dearth of competent Data Scientists.
+Refering to this data of small teams coming up with rapid solutions and techniques one could understand that indeed small teams of data scientists 
+although not as much efficient as the numero uno, but these teams if given the right atmosphere to cultivate a new crop of data scientists can indeed make a difference.
+The author deliberately presses on the importance of cultivating a data-driven or data-centric culture within the institution. This is because although there is lack of data scientists, the inherent nature of being data driven creates a shell or a environment for the 
+upcoming or budding data scientists learning their way to the top. Hence it is equally important that although there might be lack of data scientists the will to be more data-driven, the embracing of data oriented culture and the 
+constant focus of data, its analysis and its uses should be encouraged. This cumulatively creates a fortuitous and favourable environment for not only the inhouse engineers but also the 
+future prospective data scientists.
+
+A manager in India can hence collaborate and promote the usage of small data-driven teams which could handle 
+rapid development of ideas and tasks. This team would then expand its sources teaching others what they have learnt and then these learnt will then teach others and this never ending burgeoning tree 
+would then outlive or outskill any sort of "competent" data scientist.
+Hence a manager's responsibility would be to cultivate the data driven ethos and culture in the institution to instil the data oriented mindset and ideology
+to all its employees. This would create a sustainable and efficient and a very affordable compensation for the lack of competent Data Scientists.
+
+Day 14-2
+The first key insight we gain from the review is that Data Analytics and prediction dont go hand in hand. What I mean by that is that erratic whimsical human behaviour howsoever plotted, drafted and carefully thought over,
+it still remains highly unpredictable. The reason behind this is US humans. Mankind is one of the few species which is capricious to the extent that even our close relatives which we know for years are capable of doing 
+tasks which we don't even dream of them performing. Hence to collect past data of such a species in order to predict their next likely move is really difficult and most probably impossible.
+One can although narrow down and predict to a certain extent for example, the types of movies the person likes based on which Netflix actually recommends certain movies, but what if certain movie which the person likes 
+suddenly he starts to dislike and forgets to update it on Netflix. The netflix algorithm would fail to gauge such whimsical tendencies of human mind since after all it is a novice robot figuring out how to think.
+Hence the randomness inherent in human behavior is the limiting factor to consumer modeling success. Marginal gains can perhaps be made thanks to big data, but breakthroughs will be elusive as long as human behavior remains inconsistent, impulsive, dynamic, and subtle.
+
+
+The second insight we get from the review is that although big data isnt that useful in prediciting the future, it indeed is beneficial if you consider the field of Artificial Intelligence. 
+Big data analytics can improve predictions, but the biggest effects of big data will be in creating wholly new areas. Big data analytics in static topics like medical facilities or vaccination or detection of diseases, in such issues if we do get ample amounts of data
+using techniques and algorithms of Artificial Intelligence one can indeed train a computer to treat, prescribe, proscribe or even be professional consultants. Hence although big data analytics indeed cant seem to capture the 
+mercurial nature of mankind, static, not constantly changing but highly data-oriented and taxing methodologies and subjects can indeed benefit from it. 
+
+A manager in India should hence not follow the herd and stand out and understand the actual usability of the given influx of data. He should understand the possible use cases and implement only those which would have practical applications and novel innovations.
+If a certain technology is not providing a prominent change or drastic contrast, it is better to understand that many use-cases are based on randomness which cannot be accounted for using algorithms and coding.
+Hence a manager should take into account all sorts of possibilities beforehand and invest or give a thumbs up to only those projects which indeed have the potential, capacity and novel approach towards something uplifting.
+
+
+
+Day 17-1
+
+Most of the buzz around the word Big data has actually made companies invest big time in something which is supposed or expected to deliver on grounds which are impractical.
+redesign of the supply chain, which the retailer was reluctant to undertake.
+The biggest reason that investments in big data fail to pay off, though, is that most companies don’t do a good job with the information they already have. They don’t know how to manage it, analyze it in ways that enhance their understanding, and then make changes in response to new insights.
+Until and unless a company learns how to utilise data and analysis to support its operating decisions, it will not be in a position to benefit from big data
+
+In order for companies to fluorish with respect to effective handling of data, a culture of evidence based handling of data needs to be cultivated.
+Evidence-based culture inculcates steady, evenheaded, composed ideology wherein the managers are properly coached to not to base their judgement instinctively but to derive some concrete evidence presented by the data and follow up that relevant information 
+with useful intuitive insights and plans.
+Hence inorder to cultivate such a working culture, the companies should follow the four step rule:
+1)Establishment of one undisputed source of performance data: What this means is that any sort of irrelevant correlations, impractical practises would be pruned. Every movement
+will be tracked and analysed and decoded based on a central database framework. This would make a modular and synchronized analysis of the business and would conspicuously pinpoint to the errors in the data. Hence any sort of bugs that were inherent in the system would be removed, keeping the entire process simple and effective in dealing with data. This enables people to focus primarily on their 
+aspect of the data, their interpretations, their outputs , their visualisations and their predictions based on their side of the same company. This would let the managers know what exactly the company's different roles are doing and how they are performing and analysing the situation.
+2)Providing decision makers at all levels with near-real-time feedback: That is use scorecards. Using scorecards gives the employee an idea about his performance, a sense of competition amongst the employee which creates a healthy competition and the strive to be the best. The best way to teach people how to use data to create business benefits is to provide them with data about their own performance.
+3)Consciously articulate their business rules and regularly update them in response to facts: Ideally, business rules align the actions of operational decision makers with the strategic objectives of the company. But that happens only when relevant individuals understand the rules and management regularly adjusts them in response to new information. Companies with a culture of evidence-based decision making see to it that business rules are continually assessed and improved by articulating them clearly and ensuring consistency across the company.
+
+4)Provide high-quality coaching to employees who make decisions on a regular basis.
+
+A manager in India can take in the inputs from the case studies put forth by the author.
+He can employ the four stage strategy into his own system and therefore be benefitted from using big data to his/her advantage.
+The vast influx of data should be bifurcated into smaller relevant/ important good pieces off which information can be extracted.
+Hence such implementation is of utmost importance.
+
+
+
+Day 18-1
+To be data-savvy is indeed the need of the hour, but practices totally driven by data, on every step should be pruned.
+One should not fully be dependent on data as a sole evidence in regards to taking decisions. Evidence based decision making should be encouraged but 
+to make it the make-or-break point should be avoided. 
+
+ In any case of data driven analysis, each process has to be divided into 2 different portions:
+1) Dividing the complex data into smaller bits and pieces to analyse, get accustomed to and to have an in-depth understanding of the subject matter. Dividing the data into smaller parts
+makes it easier to understand and one can actually comprehend the vast amounts of data if it indeed has been chopped and diced into smaller portions. Similar to understanding or learning a language.
+ Whenever one starts to learn a language one is not shoved with complex sentences with elaborative and interepretive ideas. Instead they are given the miniscule of a database of standard alphabets to learn.
+ Hence when the matter is regarding understanding or grasping a subject one should conform to data and its wide implications. 
+ 2) To conclude, evaluate and take an interpretation out of that data should not be based on the data. Data indeed statistically will predict indeed that certain situation or movie will be highly likely, but 
+ the humanization factor, the risk involved taking an audacious step trains the brain into get used to a learning atmosphere.
+ Many factors like the current trending social changes or the upcoming buzz of a movie cannot be accounted for by data since there is no data of that movie, but to analyse the audience's likings and moods and from that 
+ base your decision-making solely on ur interpretations has a higher likely hood of success. Brain is much more capable of analysis and evaluation than what data can give. Data indeed will show you the actual reality but 
+ to do or not to do is the question. This is answered only by the gut-feeling or intuition. Hence decision making should not be data driven.
+ 
+ A manager in India can inculcate this mentality that indeed not everything should be based on data. Data-driven technology although has its advantages brings its negativities too. These negativies should be avoided and any mistakes in them should be minimised.
+ A manager should hence follow the course of analysing and understanding the data bit by bit and provide his interpretations and analysis based on those. His final interpretations should come solely from his intuition and intellect. Hence this would cultivate active and 
+ cognitive thinking amongst the managers and their data scientists. This will help managers in their decision making ability and bolster their acumen and their insight in any sort of project management.
+ 
+ 
+ 
+ Day 19
+ There is a on going shift in terms of decision making for managers and marketers. Hence in order to get accustomed to this change one should be more data-driven and not base their opinions solely on their intuition.
+ However that maybe true the otherside of the coin is also to be checked and thought over equally. One should not competely be dependent on data too.
+ If one is totally dependent on data, the constantly changing, highly responsive databases can be a wrong indication of whats to come in future. The changing datasets can indeed be culprit behind the oscillating as well as vacillating mindset of the managers.
+ This is what we call is inappropriate or over usage of an utility which is meant to be just a guidance and not something which determines the future outcomes. As indeed it has been proven in case of stock markets that howsoever the past experience may show that certain stock's prices will rise, one has to accomodate and respect the constantly changing 
+ parameters which equally add up in changing of the stock price.
+ 
+ In order to have best of both worlds one should be witty enough to use proper amalgamation of the two approaches. One should ofcourse be data-driven. They should have a critical thinking discussion or deliberation over the matters or insights 
+ shown by data, how it can be useful or can be shaped for their goal and never ever be distracted from the objective. To be focussed on objectives is highly imperative. Hence one should inculcate or sink in only those properties which would direct them towards their goal i.e on the right path. 
+ Hence to be blinkered of these attractive rampant changes one should keep reiterating if the changes indeed are relevant to subject matter at hand.
+ 
+ A manager in India can take in many important points regarding management decisions. He/She should 
+ be highly educated in terms of statistics, reason being that statistics is a fundamental aspect of decision making. Hence managers should not compromise on statistical ability in their employees as well as in them.
+ Also the managers who understand and are focussed on their goal tend to ignore the lustrous attractive changes that the data brings. They have three key qualities: comfort with ambiguity, ability to ask strategic questions based on data, and narrow focus on higher-order goals. 
+ Comfort with ambiguity implies that even if they are thrown in unseen scenarios the managers would relate it and have the aptitude to find solutions in such circumstances. These only come with experience and hence experience should be equally valued.
+ To be totally data-independent in this age of data-centric dealings is like being purposely blind in front of a stash of gold. Ofcourse one should gape at the data, have a powerful and insightful critical discussion over it, identify the usecases, find out the appropriate medium route and follow it.
+ Hence a manager should inculcate, utilise best of both the worlds for a complete understanding, interpretation and utilisation of a favourable success mantra of data and intuition/experience.
+ 
+ 
+ 
+ 
+ 
+ Day 20-1
+ 
+ One can use the same data they generate analyse it and hence predict if indeed a certain data is good or bad. This he has implemented with respect to TED talk data. In this data he collected and analysed which TEDTalks got a positive review, which was most seen and which was the most popular trending talk. Using 
+ such parameters he constructed a model or a design which would then help people in constructing what he called as "fortuitoes" TED Talks.
+ 
+ The speaker carefully analyses the data, step by step checking each subsequent process and its possible implications. He hence denotes particular words a particular score and then classifies them into good or bad. This analysis can indeed be done 
+ with respect to analysis of Review of products in ecommerce website. Here sentiment analysis is technique involved wherein each keyword is identified and given a specific weightage. This weightage is multiplied with the number of occurences of that variable and hence a binary score is generated classifying the rating as good or bad.
+Hence one can indeed get insights from this speaker as to how to bifurcate and distinguish the data using data mining and analysis.
+
+A manager in India can use a similar sort of system for implementation of a equivalent system, like that of a review system. In order to 
+find relevance in data, proper classifying algorithms should be researched over and found. This should be implemented considering the possible implications of the results. If the results indeed are found to be true, the classification can be deemed as successful.
+ 
+ Day 20-2
+ It is a wide known phenomenon that managers do lack the innovative temperament that is demanded by the industry. This is reason behind the fact that many new projects are either a hit or a miss based on pure luck. One well-documented explanation: Managers who are skilled at executing clearly defined strategies are ill equipped for out-of-the-box thinking.
+ Moreover when good ideas do emerge, they’re often doomed because the company is organized to support one way of doing business and doesn’t have the processes or metrics to support a new one. Hence there is a dire need to tackle business innovation systematically—rather than hoping people will get creative during an “innovation jam” or a special offsite—to improve the odds of success.
+ 
+ In order to get the required systematic structure in determining the aspects in need of development or improvement, one should follow the traditional as well as contemporary rules as follows:
+ 1) Using data that physical objects now generate to improve a product or service or create new business value: This implies that one should inculcate state of the art technologies and find out if within the given constraints of technology how can one augment or provide additional services which could stand them apart from competition.
+    Examples of this include smart metering of energy usage that allows utilities to optimize pricing.
+ 2) Digitizing physical assets: Long gone are the days of keeping tracks of user data in physical "book" files. Nowadays data can be utilised, transfered across the digital medium in matter of milliseconds. Not only that the most desired capability of having all of the information at a single location, tends to be more time saving and easier to search through.
+ 3) Combining data within and across industries: This is indeed what we see nowadays with Apple using the Google as its default search engine, even though Google is its rival. The reason behind this is people are quite acclimatised to the usage of google and searching has become synonymous to "googling". Hence Apple thrives on this factor that google brings to their own technology.
+ 4) Trading data: Here, a company whose information is valuable to another company sells it, as when a cell phone service identifies traffic jams by seeing where customers in cars are slowed down and shares the information with a navigation-device company. 
+ 5) Codifying a capability: This utilises the all famous and trending usage of cloud computing. Cloud computing means a very fast highly complex super computer computing at a rate million times that of normal computer, working on the same data and providing computing services to those who are incapable of having access to such a fast equipment.
+ Given the recent influx of gluts of data, it is indeed a pertaining question as to do we actually have a computing device which is capable of fast-computing over these terrabytes of data. This has led to organizations like Google, and Amazon web services to provide a platform, like cloud computing, to fulfill these needs.
+ 
+ A manager in India can this cultivate a systematic structured environment into thinking for new ideas for his projects. He could 
+ follow a structurised pattern in decoding what updates or what sort of tweaks are needed in the current software for a better response, or better add-on/ usability.
+ A manager should before starting upon a new venture should have proper detailed answers to the following questions: 
+What data do we have?
+What data can we access that we are not capturing?
+What data could we create from our products or operations?
+What helpful data could we get from others?
+What data do others have that we could use in a joint initiative?
+Armed with the answers, a manager should cycle back through each pattern to explore whether it, or perhaps a modification or combination of patterns, could be applicable in the company’s business context.
+He should then go over the systematic structure in checking addable usability to the current projects by following the points as:
+1) Augmenting Existing Products.:How could those insights provide new value to us, our customers, our suppliers, our competitors, or players in another industry?
+2) Digitizing Assets.:How can we use their digital nature to improve or augment their value?
+3) Combining Data.: Could we act as the catalyst for value creation by integrating data held by other players?
+4) Trading Data.:How could our data be structured and analyzed to yield higher-value information?
+5) Codifying a Capability.:Is there a way to standardize this capability so that it could be broadly useful?
+ 
+ 
+ Day 21 
+ Big data and analytics have rocketed to the top of the corporate agenda. As data-driven strategies take hold, they will become an increasingly important point of competitive differentiation.
+ Leaders are understandably leery of making substantial investments in big data and advanced analytics. In order to integrate practical applications of new technologies would require constant adherence and tenacity to the new technology. 
+Hence to capitalize on this new technology, organizations would have to make complex process changes and build employees’ skills. 
+ 
+Fully exploiting data and analytics requires three mutually supportive capabilities.
+1) First, companies must be able to identify, combine, and manage multiple sources of data: Choose the Right Data, get the necessary IT support and source data creatively.
+2) Second, they need the capability to build advanced analytics models for predicting and optimizing outcomes: Build Models That Predict and Optimize Business Outcomes.
+3) Third, and most critical, management must possess the muscle to transform the organization so that the data and models actually yield better decisions: Transform the Company’s Capabilities, Develop business-relevant analytics that can be put to use, Develop capabilities to exploit big data.
+ 
+ 
+ 
+ 
+ Managers in India should employ and concentrate on two important features which underpin those activities: a clear strategy for how to use data and analytics to compete, and deployment of the right technology architecture and capabilities.
+Equally important, the desired business impact must drive an integrated approach to data sourcing, model building, and organizational transformation. That’s how managers can avoid the common trap of starting with the data and simply asking what it can do for them.Entrepreneurs should  hence invest sufficient time and energy in aligning managers across the organization in support of the mission.
+They should repeatedly ask  “What’s the least complex model that would improve our performance?” to enhance the product quality in their database.
+
+
+ Day 22 
+ 
+ 
+ 
+ 
+ 
+ 
+ Day 23 
+ 
+ The first important insight that we take away from this is that the given trend in big data and analytics has created a blank space wherein although people know that they have the data, they cannot seem to know what direction to head forward with the data.
+ Many corporates and businesses are challenged by the complexity and confusion that analytics can generate.
+ They can get nonplussed and puzzled not knowing how to use this data and if actually the analysis of the specific data is worthwhile for their future goals or endeavours.
+ Hence a clarity of thought must be instilled in the managers in order to equip them with the mindset and tools to not to get bamboozled by this sudden influx of big data and therefore to overcome this confusion companies should pursue a simpler path to uncovering the insight in their data and making insight-driven decisions that add value.
+ 
+ In order to add celerity to the constant changing and responsive data, one should
+1) Accelerate its own system by having state of the art tools and analytic algorithms. Having emerging Big Data technologies already deployed enables businesses to move, manage, and mobilize the ever-increasing amount of data across the organization for consumption faster than previously possible. Real-time delivery of analytics speeds up the execution velocity and improves the service quality of an organization.
+2) Delegate the work to Analytics Technologies: One should properly compose and have a structurised process in determining which technologies are needed and what technologi is the easiest to operate, for the less tech-savvy decision makers. 
+Hence ways to delegate the work to your analytics technologies:
+1. Next-Gen Business Intelligence (BI) and data visualization: Data should be made available using business intelligence. Business intelligence is bringing data and analytics to life to help companies improve and optimize their decision-making and organizational performance. Visual form of data bolsters the confidence of decision makers and hence shortens the time consumed in decision making.
+2. Data discovery: These techniques are indeed important since they enable in having cognitive insights which analysts were unable to assimilate.
+Companies can test and play with their data to uncover data patterns that aren’t clearly evident.
+3. Analytics applications: Applications can simplify advanced analytics as they put the power of analytics easily and elegantly into the hands of the business user to make data-driven business decisions.(Also known as easing the use of technology and putting it into hands of business minded layman)
+4. Machine learning and cognitive computing: Take out the amount of human factor, hence reduce the overall time required in analysing the data. Machine learning is that branch of computing which actually learns over time. Hence this algorithm is like a child learning the data in a matter of micro seconds and even predicting its own interpretations quickly.
+
+3)Recognize that each path to data insight is unique.
+he path to insight doesn’t come in one single form. There are many different elements in play, and they are always changing — business goals, technologies, data types, data sources, and then some are in a state of flux. Hence one should not be restricted in terms of way to go about in interpreting the data. Instead one should be prepared to experiment non-conventional and innovative ways
+for data analysis and insights.
+
+
+
+A manager in India can therefore incorporate, integrate and promote such ideologies for a responsive system. This would enable himself as well as his seniors/colleagues in getting useful insights from big data in matters of seconds. Using responsive state-of-the-art technologies would enable 
+managers to confidently take decisions, back on those decisions owing to the graphs as a proof.
+They would not only cultivate a progressive mindset but overall insight driven ideologies, which would cultivate and prosper a mature analyst in every decision maker. Hence once insights are uncovered, the next step is for the business, of course, to make the data-driven decisions that place action behind the data. It is possible to uncover the business opportunities in your data and increase data equity. A manager should therefore be a proponent for a change in thinking and progressive mindset regarding replacement of labour with technology.(for faster response time, better understanding, deep insight.)
+Day 24
